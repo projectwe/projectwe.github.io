@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Project WE",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -105,7 +105,8 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "witsec-white-label": true
+    "witsec-white-label": true,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {

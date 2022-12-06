@@ -799,7 +799,7 @@ a {
 }
 .cid-tp2arHFP5m {
   padding-top: 1rem;
-  padding-bottom: 6rem;
+  padding-bottom: 2rem;
   background-image: url("../../../assets/images/gradient-purple-1920x1080.png");
 }
 .cid-tp2arHFP5m .mbr-overlay {
@@ -1276,6 +1276,23 @@ a {
     left: -1rem;
   }
 }
+.cid-tpcjKyYXHC {
+  padding-top: 75px;
+  padding-bottom: 95px;
+  background-image: url("../../../assets/images/orange-business-services-website-3-2000x1124.png");
+}
+.cid-tpcjKyYXHC svg {
+  overflow: hidden;
+  vertical-align: middle;
+  position: absolute;
+  bottom: 0;
+}
+.cid-tpcjKyYXHC .wave {
+  fill: #ffffff;
+}
+.cid-tpcjKyYXHC H1 {
+  color: #000000;
+}
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
@@ -1619,7 +1636,7 @@ a {
   }
 }
 .cid-tp2GnpYW99 {
-  padding-top: 6rem;
+  padding-top: 0rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
@@ -1638,19 +1655,8 @@ a {
 .cid-tp2GnpYW99 .mbr-section-title {
   color: #000000;
 }
-.cid-g9WbR80Y8r {
-  padding-top: 30px;
-  background: linear-gradient(180deg, #ffffff, #5daec9);
-}
-.cid-g9WbR80Y8r .wave1 {
-  opacity: 0.35;
-  fill: #ffffff;
-}
-.cid-g9WbR80Y8r .wave2 {
-  fill: #ffffff;
-}
 .cid-tp7Hyo41fK {
-  padding-top: 5rem;
+  padding-top: 3rem;
   padding-bottom: 3rem;
   background-color: #ffffff;
 }
@@ -1782,6 +1788,23 @@ a {
 }
 .cid-tp7RteGRgA .mbr-section-subtitle {
   text-align: left;
+}
+.cid-2rwWbDBbsB {
+  padding-top: 75px;
+  padding-bottom: 95px;
+  background-image: url("../../../assets/images/orange-business-services-website-3-2000x1124.png");
+}
+.cid-2rwWbDBbsB svg {
+  overflow: hidden;
+  vertical-align: middle;
+  position: absolute;
+  bottom: 0;
+}
+.cid-2rwWbDBbsB .wave {
+  fill: #ffffff;
+}
+.cid-2rwWbDBbsB H1 {
+  color: #000000;
 }
 .cid-s48OLK6784 {
   z-index: 1000;
@@ -2125,34 +2148,6 @@ a {
     left: -1rem;
   }
 }
-.cid-tp3aGQm8pV {
-  padding-top: 5rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-tp3aGQm8pV .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tp3aGQm8pV .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-kFnd0XuLCl {
-  padding-top: 0px;
-  background: linear-gradient(180deg, #ffffff, #dfc0fc);
-}
-.cid-kFnd0XuLCl .wave1 {
-  opacity: 0.35;
-  fill: #ffffff;
-}
-.cid-kFnd0XuLCl .wave2 {
-  fill: #ffffff;
-}
 .cid-tp0R6v1Bya {
   background-color: #ffffff;
 }
@@ -2184,6 +2179,26 @@ a {
   margin-right: auto;
   width: 100%;
   height: 700px;
+}
+.cid-tpbT1ZgxFW {
+  padding-top: 0rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tpbT1ZgxFW .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tpbT1ZgxFW .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tpbT1ZgxFW .mbr-section-subtitle {
+  text-align: left;
 }
 .cid-s48OLK6784 {
   z-index: 1000;
@@ -2601,26 +2616,6 @@ a {
   height: 2px;
   margin: 0 auto;
 }
-.cid-tp8k0t4GQw {
-  padding-top: 0rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-tp8k0t4GQw .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tp8k0t4GQw .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tp8k0t4GQw .mbr-section-subtitle {
-  text-align: center;
-}
 .cid-tp1uY4qUI7 {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -2637,6 +2632,26 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-tp8k0t4GQw {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-tp8k0t4GQw .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tp8k0t4GQw .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tp8k0t4GQw .mbr-section-subtitle {
+  text-align: center;
 }
 .cid-tpbRR6Z5t6 {
   padding-top: 0rem;
@@ -2657,6 +2672,74 @@ a {
 }
 .cid-tpbRR6Z5t6 .mbr-section-subtitle {
   text-align: left;
+}
+.cid-tpc1Ey9AGK {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tpc1Ey9AGK .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tpc1Ey9AGK .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tpc2teLJP2 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tpc2teLJP2 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tpc2teLJP2 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tpc3JRdjGW {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tpc3JRdjGW .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tpc3JRdjGW .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tpc48VmRXP {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tpc48VmRXP .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tpc48VmRXP .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
 .cid-s48OLK6784 {
   z-index: 1000;
@@ -3000,33 +3083,22 @@ a {
     left: -1rem;
   }
 }
-.cid-tp1FwKdXgh {
-  padding-top: 5rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
+.cid-tpcjxxsFyv {
+  padding-top: 75px;
+  padding-bottom: 95px;
+  background-image: url("../../../assets/images/orange-business-services-website-3-2000x1124.png");
 }
-.cid-tp1FwKdXgh .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tp1FwKdXgh .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
+.cid-tpcjxxsFyv svg {
+  overflow: hidden;
+  vertical-align: middle;
   position: absolute;
-  top: 0;
+  bottom: 0;
 }
-.cid-jP9CHQe5DA {
-  padding-top: 0px;
-  background: linear-gradient(180deg, #ffffff, #ffb5b5);
-}
-.cid-jP9CHQe5DA .wave1 {
-  opacity: 0.35;
+.cid-tpcjxxsFyv .wave {
   fill: #ffffff;
 }
-.cid-jP9CHQe5DA .wave2 {
-  fill: #ffffff;
+.cid-tpcjxxsFyv H1 {
+  color: #000000;
 }
 .cid-tp0BkiOzbE {
   padding-top: 3rem;
@@ -3140,19 +3212,19 @@ a {
   margin-right: 0.6rem;
   margin-bottom: 1rem;
   padding: 0.5rem;
-  border: 2px solid #6592e6;
+  border: 2px solid #cc2853;
   transition: all 0.3s;
 }
 .cid-tp2WzyfOXU .social-row .soc-item .mbr-iconfont {
   display: flex;
   justify-content: center;
   align-content: center;
-  color: #6592e6;
+  color: #cc2853;
   font-size: 1.5rem;
   transition: all 0.3s;
 }
 .cid-tp2WzyfOXU .social-row .soc-item:hover {
-  background-color: #6592e6;
+  background-color: #cc2853;
 }
 .cid-tp2WzyfOXU .social-row .soc-item:hover .mbr-iconfont {
   color: #ffffff;
@@ -3211,19 +3283,19 @@ a {
   margin-right: 0.6rem;
   margin-bottom: 1rem;
   padding: 0.5rem;
-  border: 2px solid #6592e6;
+  border: 2px solid #cc2853;
   transition: all 0.3s;
 }
 .cid-tp2WHvDcR0 .social-row .soc-item .mbr-iconfont {
   display: flex;
   justify-content: center;
   align-content: center;
-  color: #6592e6;
+  color: #cc2853;
   font-size: 1.5rem;
   transition: all 0.3s;
 }
 .cid-tp2WHvDcR0 .social-row .soc-item:hover {
-  background-color: #6592e6;
+  background-color: #cc2853;
 }
 .cid-tp2WHvDcR0 .social-row .soc-item:hover .mbr-iconfont {
   color: #ffffff;

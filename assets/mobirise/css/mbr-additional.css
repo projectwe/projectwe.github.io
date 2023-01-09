@@ -3653,6 +3653,26 @@ a {
 .cid-tp2WHvDcR0 .card-subtitle {
   color: #cc2853;
 }
+.cid-tsraHLaZtj {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
+}
+.cid-tsraHLaZtj .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tsraHLaZtj .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tsraHLaZtj .mbr-section-subtitle DIV {
+  text-align: left;
+}
 .cid-tp8iwYco0z {
   padding-top: 0rem;
   padding-bottom: 6rem;
